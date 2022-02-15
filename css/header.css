@@ -6,9 +6,6 @@ body.open-menu {
     background-color: var(--third-brand-color);
 }
 
-.header {
-    position: relative;
-}
 .header__top {
     display: flex;
     align-items: center;
